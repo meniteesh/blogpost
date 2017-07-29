@@ -31,7 +31,7 @@
     </div>
     <div class="navbar navbar-inverse" style="position: fixed; width: 100%; bottom: 0px;">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Title</a>
+            <a class="navbar-brand" href="#">Blogpost</a>
             <ul class="nav navbar-nav">
                 <li class="active">
                     <a href="#">Home</a>
